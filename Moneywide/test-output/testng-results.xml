@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-08T06:11:53 IST" name="Default suite" finished-at="2023-05-08T06:12:06 IST" duration-ms="12787">
+    <groups>
+    </groups>
+    <test started-at="2023-05-08T06:11:53 IST" name="Default test" finished-at="2023-05-08T06:12:06 IST" duration-ms="12787">
+      <class name="tests.Bubble_Animationi_button_test">
+        <test-method is-config="true" signature="launchurl()[pri:0, instance:tests.Bubble_Animationi_button_test@17fc391b]" started-at="2023-05-08T06:11:53 IST" name="launchurl" finished-at="2023-05-08T06:11:56 IST" duration-ms="3206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method signature="Apply_button_test()[pri:1, instance:tests.Bubble_Animationi_button_test@17fc391b]" started-at="2023-05-08T06:11:56 IST" name="Apply_button_test" finished-at="2023-05-08T06:11:56 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Apply_button_test -->
+        <test-method signature="Instant_loan_button_test()[pri:2, instance:tests.Bubble_Animationi_button_test@17fc391b]" started-at="2023-05-08T06:11:56 IST" name="Instant_loan_button_test" finished-at="2023-05-08T06:11:59 IST" duration-ms="2405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Instant_loan_button_test -->
+        <test-method signature="Loan_against_salary()[pri:3, instance:tests.Bubble_Animationi_button_test@17fc391b]" started-at="2023-05-08T06:11:59 IST" name="Loan_against_salary" finished-at="2023-05-08T06:12:01 IST" duration-ms="2301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loan_against_salary -->
+        <test-method signature="Pl_without_document()[pri:4, instance:tests.Bubble_Animationi_button_test@17fc391b]" started-at="2023-05-08T06:12:01 IST" name="Pl_without_document" finished-at="2023-05-08T06:12:03 IST" duration-ms="2345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pl_without_document -->
+        <test-method signature="New_credit()[pri:5, instance:tests.Bubble_Animationi_button_test@17fc391b]" started-at="2023-05-08T06:12:03 IST" name="New_credit" finished-at="2023-05-08T06:12:06 IST" duration-ms="2314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_credit -->
+      </class> <!-- tests.Bubble_Animationi_button_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
